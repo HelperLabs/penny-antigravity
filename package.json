@@ -1,0 +1,19 @@
+{
+  "name": "penny-antigravity",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Penny memory for explicitly enabled Antigravity conversations",
+  "author": "HelperLabs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HelperLabs/penny-antigravity.git"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test scripts/release.test.mjs",
+    "verify:host": "node scripts/verify-host.mjs",
+    "security:manifest": "node scripts/dependency-manifest.mjs"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "packageVersion": "0.1.0",
+  "publisher": "HelperLabs",
+  "channel": "public",
+  "sourceCommit": "f1ef6ff8b62b839b0a12e791993ec31f002a53dc",
+  "sourceDirty": false,
+  "canonicalSkillSha256": "978657f82166b88df353603c95e9613734a930a1fc5e75b3cdfe2361ea826aed",
+  "automaticPrivateMemoryAccess": false,
+  "targetBaseline": "Antigravity CLI 1.3.3"
+}
